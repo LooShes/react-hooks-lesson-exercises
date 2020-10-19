@@ -15,7 +15,7 @@ function App() {
       <SpotCheck2 />
       <SpotCheck3 />
       <Exercise1 />
-      <Exercise2 />
+      {/* <Exercise2 /> */}
       <Exercise3 />
     </div>
   )

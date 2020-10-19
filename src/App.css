@@ -2,6 +2,12 @@ body{
   background-color: #E4E9EF;
 }
 
+button{
+  height: 30px;
+  margin: 5px;
+  width: 70px;
+}
+
 .ex-space{
   margin: 4vh;
   padding: 2vh;
